@@ -1,0 +1,25 @@
+{
+  "name": "demo-api-translator-nodejs",
+  "version": "1.0.0",
+  "description": "Tradutor",
+  "main": "index.js",
+  "scripts": {
+    "translate": "node index.js"
+  },
+
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "azure",
+    "cognitive-services",
+    "translator-text"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "request": "^2.88.0",
+    "uuid": "^8.3.2",
+    "uuidv4": "^5.0.1"
+  }
+}
