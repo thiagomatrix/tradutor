@@ -1,6 +1,4 @@
-## Tradutor de arquivos Json com Microsoft Azure Translate
-
-___
+# Tradutor de arquivos Json com Microsoft Azure Translate
 
 ### Sobre
 
