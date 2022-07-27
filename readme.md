@@ -24,3 +24,7 @@ AZURE_KEY=suachave
 ### A saída dos arquivos será na pasta export e os arquivo conforme idiomas configurados
 
 #### Ver os planos disponíveis em [AZURE](https://azure.microsoft.com/pt-br/pricing/details/cognitive-services/translator/)
+
+## Para traduzir execute o seguinte comando
+
+<code>npm run translate</code>
